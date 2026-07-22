@@ -1,4 +1,4 @@
-# ทีม SONIC - NITMX Fintech Bootcamp 2026 
+# ทีม SONIC - Gistda GeoHackathon 2026
 
 ## โครงการนำเสนอ: ชื่อผลงาน: Geo-Nexus AI: Balancing Water and Heat Impacts of Data Centers (ระบบรักษาสมดุลความร้อนและทรัพยากรน้ำของ Data Center)
 **[คลิกที่นี่เพื่ออ่านข้อเสนอโครงการ (PromptProtect Proposal)](./Proposal/PromptProtect_Proposal.md)**
